@@ -16,7 +16,7 @@ services:
       context: ./server
       dockerfile: Dockerfile
     ports:
-      - "5001:5000"  # Change 5000 to 5001 or any other available port
+      - "5001:5000"  # Change 5000 to 5001 or any other available port  htkdyffdxznmyjf,ufxmdfdxmhdfdmxzfgfmxhfxh
     volumes:
       - ./server:/app
       - /app/node_modules
